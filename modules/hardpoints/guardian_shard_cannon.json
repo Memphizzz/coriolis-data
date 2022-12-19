@@ -203,6 +203,41 @@
         "T": 1
       },
       "falloff": 1700
-    }
+    },
+	{
+		"name": "Guardian Shard Cannon (Modified)",
+		"experimental": true,
+		"rating": "A",
+		"class": 2,
+		"grp": "gsc",
+		"id": "3z",
+		"eddbID": 0,
+		"edID": 128834779,
+		"mount": "F",
+		"cost": 0,
+		"mass": 6,
+		"integrity": 42,
+		"power": 2.783,
+		"damage": 3.7,
+		"distdraw": 3.43,
+		"fireint": 1.7,
+		"thermload": 19.8,
+		"piercing": 91,
+		"range": 3000,
+		"shotspeed": 6299,
+		"clip": 5,
+		"ammo": 180,
+		"roundspershot": 12,
+		"reload": 5,
+		"breachdmg": 2.7,
+		"breachmin": 0.6,
+		"breachmax": 0.8,
+		"jitter": 1.5,
+		"symbol": "Hpt_Guardian_ShardCannon_Fixed_Medium",
+		"damagedist": {
+		  "T": 1
+		},
+		"falloff": 1500
+	  }
   ]
 }
